@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Toshith.N</h1>
-<h3 align="center">Aspiring Deep learning and Stats Engineer</h3>
+<h1 align="center">Hey, I'm Toshith.N</h1>
+<h3 align="center">Aspiring Deep learning and ML Engineer with keen intrest on application development !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tether007&label=Profile%20views&color=0e75b6&style=flat" alt="tether007" /> </p>
 
