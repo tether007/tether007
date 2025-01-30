@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tether007&label=Profile%20views&color=0e75b6&style=flat" alt="tether007" /> </p>
 
-- 🌱 I’m currently learning **Pytorch,React,node**
+- 🌱 I’m currently learning **Pytorch,React,node,javax**
 
 - 📫 How to reach me **toshithworks0@gmail.com**
 
