@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tether007&show_icons=true&locale=en" alt="tether007" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tether007&" alt="tether007" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tether007&show_icons=true&locale=en" alt="tether007" /></p>
