@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Pytorch,React,node,javax**
+- 🌱 I'm currently pusinng into advanced **Pytorch,FastAPI,React.js,scikit-learn,**
 
 - 📫 How to reach me **toshithworks0@gmail.com**
 
